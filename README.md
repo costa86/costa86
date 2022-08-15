@@ -16,8 +16,3 @@ Most of my professional experience has been related to Python, although Rust is 
 <img src="https://img.shields.io/badge/Articles-04252?style=for-the-badge&logo=dev.to" alt="portfolio" />
 </a>
 </div>
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=costa86&label=Profile+Views)
-
-</div>
