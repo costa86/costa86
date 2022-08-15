@@ -1,16 +1,23 @@
-### Hi there 👋
+## About me
+Most of my professional experience has been related to Python, although Rust is now my go-to language! 
 
-<!--
-**costa86/costa86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Reach out to me
+<div align="center">
+<a href="https://costa86.tech/">
+<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge" alt="portfolio" />
+</a>
+<a href="mailto:costa86@zoho.com">
+<img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+<a href="https://www.linkedin.com/in/costa86">
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://dev.to/costa86">
+<img src="https://img.shields.io/badge/Articles-04252?style=for-the-badge&logo=dev.to" alt="portfolio" />
+</a>
+</div>
+<div align='center'>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=costa86&label=Profile+Views)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
