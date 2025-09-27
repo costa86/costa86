@@ -5,10 +5,6 @@ I am also a Book author: [Python Straight to The Point](https://www.amazon.com/P
 ## Reach out to me
 <div align="center">
 
-<a href="https://costa86.tech/">
-<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge" alt="portfolio" />
-</a>
-
 <a href="https://www.linkedin.com/in/costa86">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
